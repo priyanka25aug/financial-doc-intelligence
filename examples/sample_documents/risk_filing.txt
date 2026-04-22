@@ -1,0 +1,20 @@
+ACME Financial Corporation — Annual Report (10-K)
+SEC Filing Date: March 1, 2024
+
+RISK FACTORS
+
+The following risk factors may materially adversely affect our business, financial condition, and results of operations. Investors should carefully consider these risk factors.
+
+1. MARKET RISK
+We are exposed to significant market risk arising from our trading activities. Elevated VIX readings and market volatility have increased mark-to-market losses on certain derivatives positions. Our Value at Risk (VaR) model may not capture all market risk under extreme conditions.
+
+2. CREDIT RISK
+Counterparty credit risk represents a material adverse factor. Default by a significant counterparty could result in substantial losses. We hold collateral agreements with major counterparties, but collateral may prove insufficient under stress scenarios.
+
+3. REGULATORY RISK
+We are subject to extensive regulation by the SEC, FINRA, and international regulatory bodies. Non-compliance with capital adequacy requirements could result in enforcement actions, fines, or restrictions on business activities. Forward-looking regulatory changes represent an uncertainty that could affect our operating model.
+
+4. LITIGATION RISK
+We are party to several pending legal proceedings. Adverse outcomes could result in material financial liability. See Note 14 to the financial statements for details on litigation matters.
+
+These forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those anticipated.

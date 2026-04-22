@@ -1,0 +1,29 @@
+TRADE CONFIRMATION
+Reference: TC-2024-10-15-00847
+
+Trade Date: October 15, 2024
+Settlement Date: October 17, 2024 (T+2)
+
+Instrument: Interest Rate Swap (OTC)
+CUSIP: 459200101
+ISIN: US4592001014
+
+Notional Amount: $50,000,000 (USD)
+Fixed Rate: 4.75%
+Floating Rate: SOFR + 125bps
+
+Counterparty: Goldman Sachs Bank USA
+Execution Venue: OTC Bilateral
+Clearing: LCH SwapClear
+
+Trade confirmed by: ACME Financial Corporation
+Counterparty confirmation required by: October 16, 2024
+
+This trade confirmation is subject to the ISDA Master Agreement dated January 10, 2020 between ACME Financial Corporation and Goldman Sachs Bank USA.
+
+Settlement instructions:
+- DTC: Participant 0005
+- Account: 123-456789
+- SWIFT BIC: GSUSUS33
+
+Please confirm receipt and accuracy of all trade details.
